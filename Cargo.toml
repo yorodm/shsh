@@ -1,0 +1,8 @@
+[package]
+name = "shsh"
+version = "0.1.0"
+authors = ["Yoandy Rodriguez <yoandy.rmartinez@gmail.com>"]
+description = "A very funny shell written in rust"
+
+[dependencies]
+rustyline = "2.1.0"
